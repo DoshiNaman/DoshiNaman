@@ -56,5 +56,5 @@
 <a href="https://linkedin.com/in/naman-doshi-007"><img src="https://img.shields.io/badge/-Naman%20Doshi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:npdoshi2@gmail.com"><img src="https://img.shields.io/badge/-npdoshi2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/naman_d0shi"><img src="https://img.shields.io/badge/-@naman_d0shi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/naman.d0shi.5243"><img src="https://img.shields.io/badge/-@naman.d0shi.5243-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/naman.doshi.5243"><img src="https://img.shields.io/badge/-@naman.doshi.5243-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
