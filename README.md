@@ -21,3 +21,6 @@ class Skills extends SoftwareDeveloper {
   web3       = ['MagicLink', 'Metamask'];
 }
 ```
+<p align="center">
+  <img src="https://github.com/DoshiNaman/DoshiNaman/blob/main/assets/giphy.gif" />
+</p>
