@@ -15,8 +15,8 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['Python', 'JavaScript', 'PHP', 'C'];
-  databases  = ['Firebase', 'MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['Django', 'DRF', 'React'];
+  databases  = ['Firebase', 'MySQL', 'PostgreSQL'];
+  frameworks = ['Django', 'DRF', 'React', 'Next'];
   clouds     = ['AWS', 'Azure'];
   web3       = ['MagicLink', 'Metamask'];
 }
