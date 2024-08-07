@@ -6,19 +6,21 @@
 import { SoftwareDeveloper } from '@doshinaman';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Naman Doshi';
-  title    = 'Software Engineer';
-  company  = 'Somhako | Remote';
-  location = 'Yokohama, Kanagawa, Japan';
-  website  = 'https://doshinaman.pythonanywhere.com';
+  name = 'Naman Doshi';
+  title = 'Software Engineer';
+  leavingLocation = 'Ahemdabad, Gujarat, India';
+  companyName = 'Somhako';
+  companyLocation = 'Yokohama, Kanagawa, Japan';
+  employeementType = 'Full time';
+  workType = 'Remote';
+  website = 'https://doshinaman.pythonanywhere.com';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Python', 'JavaScript', 'PHP', 'C'];
-  databases  = ['Firebase', 'MySQL', 'PostgreSQL'];
-  frameworks = ['Django', 'DRF', 'React', 'Next'];
-  clouds     = ['AWS', 'Azure'];
-  web3       = ['MagicLink', 'Metamask'];
+  languages = ['JavaScript', 'Python', 'PHP'];
+  technologies = ['NextJS', 'ReactJS', 'Tailwind CSS', 'Django', 'Django Rest Framework (DRF)', 'HTML', 'CSS', 'jQuery'];
+  databases = ['Firebase', 'MySQL', 'PostgreSQL', 'MongoDB'];
+  additional = ['GIT', 'GitHub', 'Linux', 'OpenAI', 'LangChain', 'Sentry', 'AWS', 'Azure'];
 }
 ```
 <p align="center">
