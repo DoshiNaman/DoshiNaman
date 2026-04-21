@@ -7,18 +7,18 @@ import { SoftwareDeveloper } from '@doshinaman';
 
 class Bio extends SoftwareDeveloper {
   name = 'Naman Doshi';
-  title = 'Software Engineer';
+  title = 'Software Engineer ( Full stack + AI )';
   leavingLocation = 'Ahemdabad, Gujarat, India';
-  companyName = 'Somhako';
-  companyLocation = 'Yokohama, Kanagawa, Japan';
+  companyName = 'Nexuslink Services India Pvt Ltd';
+  companyLocation = 'Ahmedabad, Gujarat';
   employeementType = 'Full time';
-  workType = 'Remote';
+  workType = 'Hybrid';
   website = 'https://doshinaman.pythonanywhere.com';
 }
 
 class Skills extends SoftwareDeveloper {
   languages = ['JavaScript', 'Python', 'PHP'];
-  technologies = ['NextJS', 'ReactJS', 'Tailwind CSS', 'Django', 'Django Rest Framework (DRF)', 'HTML', 'CSS', 'jQuery'];
+  technologies = ['NextJS', 'ReactJS', 'Tailwind CSS', 'FastAPI', 'Django', 'Django Rest Framework (DRF)', 'HTML', 'CSS', 'jQuery', 'React Native', 'LIbrechat', 'MCP server'];
   databases = ['Firebase', 'MySQL', 'PostgreSQL', 'MongoDB'];
   additional = ['GIT', 'GitHub', 'Linux', 'OpenAI', 'LangChain', 'Sentry', 'AWS', 'Azure'];
 }
